@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copa AirLine", "Copa AirLine\Copa AirLine.csproj", "{F27C2204-83DE-4EB2-9D43-D956A722854E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{93D01E43-3761-41CF-8D42-996A47069765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructura", "Infraestructura\Infraestructura.csproj", "{D7D2B2BD-C565-4D52-AFD1-A4BEFADC8D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCore", "AppCore\AppCore.csproj", "{CAD46753-DFE5-4FEC-A675-1527832FB465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27C2204-83DE-4EB2-9D43-D956A722854E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27C2204-83DE-4EB2-9D43-D956A722854E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27C2204-83DE-4EB2-9D43-D956A722854E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27C2204-83DE-4EB2-9D43-D956A722854E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D01E43-3761-41CF-8D42-996A47069765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D01E43-3761-41CF-8D42-996A47069765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D01E43-3761-41CF-8D42-996A47069765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D01E43-3761-41CF-8D42-996A47069765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D2B2BD-C565-4D52-AFD1-A4BEFADC8D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D2B2BD-C565-4D52-AFD1-A4BEFADC8D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D2B2BD-C565-4D52-AFD1-A4BEFADC8D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D2B2BD-C565-4D52-AFD1-A4BEFADC8D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD46753-DFE5-4FEC-A675-1527832FB465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD46753-DFE5-4FEC-A675-1527832FB465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD46753-DFE5-4FEC-A675-1527832FB465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD46753-DFE5-4FEC-A675-1527832FB465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FD4507-66F3-40C9-A621-B0E589CAFDD8}
+	EndGlobalSection
+EndGlobal
